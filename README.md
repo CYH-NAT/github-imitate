@@ -6,3 +6,5 @@ Vue3+Vite+tailwindCSS
 ### npm install
 # 運行
 ### npm run dev
+# 預覽圖片
+![image](https://github.com/user-attachments/assets/274178ed-6199-4f9a-9908-3808a9204e4d)
